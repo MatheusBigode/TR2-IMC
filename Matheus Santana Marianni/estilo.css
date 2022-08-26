@@ -1,0 +1,14 @@
+body {
+    
+    background-color: aquamarine;
+    font-family: 'Barlow', sans-serif;
+}
+
+#tabela{
+    padding: 1rem;
+    background-color: aliceblue;
+    border-radius: 10px;
+    top: 50%;
+    left: 50%;
+}
+
